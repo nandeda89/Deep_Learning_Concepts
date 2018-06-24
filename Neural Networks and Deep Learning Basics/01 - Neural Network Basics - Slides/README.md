@@ -1,3 +1,6 @@
+<h1 align="center"> Neural network Basics </h1>
+
+
 ### 01-Logistic-Regression-as-a-Neural-Network
     1  Binary Classification
     2  Logistic Regression
