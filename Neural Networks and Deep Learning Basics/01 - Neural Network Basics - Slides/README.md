@@ -1,4 +1,4 @@
-<h1 align="center"> Neural network Basics </h1>
+<h1 align="center"> Neural Network Basics </h1>
 
 
 ### 01-Logistic-Regression-as-a-Neural-Network
