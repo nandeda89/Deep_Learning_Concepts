@@ -24,3 +24,6 @@
 ### 06 - Building your Deep Neural Network - Step by Step
 
 ### 07 - Deep Neural Network - Application
+
+### Acknowledgements
+     - This repository is a part of coursework I have done in "Deep Learning Specialization at Coursera". 
