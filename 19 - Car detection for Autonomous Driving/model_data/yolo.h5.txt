@@ -1,2 +1,0 @@
-#### Download yolo.h5 from Gdrive
-Link - 
